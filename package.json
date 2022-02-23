@@ -12,7 +12,7 @@
   },
   "author": "nino",
   "dependencies": {
-  "@adiwajshing/baileys": "github:adiwajshing/baileys",
+  "@adiwajshing/baileys": "^3.5.3",
     "axios": "^0.21.1",
     "brainly-scraper": "^1.0.3",
     "chalk": "^4.1.1",
@@ -35,7 +35,7 @@
     "spinnies": "^0.5.1",
     "twitter-url-direct": "^1.0.1",
     "util": "^0.12.4",
-    "yt-search": "^2.8.0"
+    "yt-search": "^2.9.0"
   },
   "engines": {
     "node": "16.x",
